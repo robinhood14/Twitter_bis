@@ -1,24 +1,12 @@
-# README
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" target="_blank"> </p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Création d'un application pour tweeter! 
 
-Things you may want to cover:
+Le projet ici est la réalisation d'une plate-forme pour tweeter grâce au services et API's.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+Tu peux accéder à ma super application de générateur de tweets ici :point_right: 
+Malheuresement, les tests n'ont pas été éffectués et le CSS n'a encore été créée, manque de temps... 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+@Robin_hood sur Slack
