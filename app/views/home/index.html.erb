@@ -1,0 +1,41 @@
+<div class="container" align="center">
+
+<p> 
+	<img src="https://theplanetd.com/images/SmilingTwitterBird.png" alt="twitter" style="width:50%; height:400px;">
+</p>
+
+<br>
+
+<%= form_for :tweet do |f| %>
+
+ 
+
+
+
+  <div class="field">
+
+    <%= f.label :Your_tweet_here %><br />
+
+    <%= f.text_area :content, autofocus: true %>
+
+  </div>
+
+<br>
+
+  <div class="actions">
+
+    <%= f.submit "Tweet that" %>
+
+  </div>
+
+  <br>
+
+<% end %>
+
+<%= link_to "Lien de mon twitter pour checker votre oeuvre", "https://twitter.com/Micheltonpote"%>
+
+
+
+
+
+</div
